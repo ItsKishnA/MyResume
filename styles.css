@@ -1,6 +1,8 @@
 img{
     margin-left: 5px;
     border-radius: 5px;
+    height: 200px;
+    border-radius: 20px;
 }
 
 /* on overall website cursor pointer must be looking like small red circle */
