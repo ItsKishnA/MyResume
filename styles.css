@@ -1,17 +1,5 @@
-img{
-    margin-left: 5px;
-    border-radius: 5px;
+img {
     height: 200px;
     border-radius: 20px;
-}
+};
 
-/* on overall website cursor pointer must be looking like small red circle */
-*{
-    background-color: black;
-    cursor: url('https://www.vecteezy.com/pic/16314339/red-circle-png-red-dot-icon'), auto;
-}
-
-.custom-cursor {
-    cursor: -moz-webkit(url('red-circle-cursor.png'), auto); /* Firefox */
-    cursor: -webkit-image-set(url('red-circle-cursor.png') 1x, url('red-circle-cursor.png') 2x), auto; /* Webkit browsers */
-}
