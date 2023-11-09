@@ -1,5 +1,19 @@
-img {
+html {
+    margin: 10px;
+}
+
+.ProfilePic {
     height: 200px;
     border-radius: 20px;
 };
 
+img.Connect {
+    height: 20px;
+    border: 5px solid red;
+
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+}
